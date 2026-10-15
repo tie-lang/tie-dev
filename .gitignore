@@ -3,3 +3,6 @@ Thumbs.db
 .DS_Store
 *.tmp
 _tmp_*
+# tpkg 规范
+target/
+_local_only/
